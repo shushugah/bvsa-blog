@@ -22,7 +22,7 @@ sections:
     type: postlist
   - component: text_image_block.html
     image: ''
-    section_id: cat
+    section_id: tower
     text: >-
       Construction for Berlin's tallest building is scheduled to be completed in
       2023. Plans are for 3400 software developers to occupy 28 of the 35
@@ -42,7 +42,7 @@ sections:
       harasses employees, pays no taxes while earning hundreds of billions, and
       propagates digital surveillance, has no business in Berlin or anywhere!
       The city belongs to us!
-    title: A Cat
+    title: Info about the Amazon tower
     type: textimageblock
 menus:
   main:
