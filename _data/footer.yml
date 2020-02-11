@@ -1,5 +1,5 @@
-content: '&copy; All rights reserved.'
+content: ''
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Built with Stackbit
     url: 'https://www.stackbit.com'
-    new_window: true
