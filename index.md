@@ -1,67 +1,76 @@
 ---
 title: Home
 sections:
-  - type: heroblock
-    title: This is a hero headline.
+  - component: hero_block.html
+    image: /images/bvsa.png
     section_id: hero
-    component: hero_block.html
-    subtitle: '### This is a super-cool hero subhead.'
-    image: images/avatar.png
-  - type: contentblock
-    title: Text
-    section_id: intro
-    component: content_block.html
+    subtitle: Fight The Amazon Tower
+    title: Berlin Vs Amazon News
+    type: heroblock
+  - component: content_block.html
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+      Silicon Valley is the byproduct of unfettered tech-urbanism: skyrocketing
+      gentrification, increasing homelessness, surveillance and income
+      inequality. When Amazon comes to Friedrichshain, the existing precarious
+      situation is intensified. We want to prevent that!
+
 
       ### This is an H3. Use it for subheads and subsections.
 
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
 
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
-  - type: postlist
-    title: Recent Posts
+      Construction for Berlin's tallest building is scheduled to be completeled
+      in 2023. Plans are for 3400 software developers to occupy 28 of the 35
+      stories. It will be located on the*Warschauer Bridge*, next to the East
+      Side Mall, a relic of the Media Spree era. Friedrichshain-Kreuzberg will
+      be transformed into a hotspot for tech giants. The mantra of*it brings
+      jobs*is repeated. Of course those jobs are not intended for local
+      residents. The neighborhood will see a demographic shift, with tech
+      firms*disrupting*the neighborhood staples: small businesses, schools,
+      community initiatives and cultural centers. In Silicon Valley, the
+      consequences of*laissez faire*capitalism is apparent. The recent victories
+      in New York City and Kreuzber show that we are not simply at the mercy of
+      real estate, but that we can successfully push back against tech giants
+      through grassroots coalitions. This is exactly what we aim for. Together
+      we creatively and loudly protest against the Amazon infestation in
+      Friedrichshain-Kreuzberg. A conglomerate like Amazon, which harasses
+      employees, pays no taxes while earning hundreds of billions, and
+      propogates digital surveillance, has no business in Berlin or anywhere!
+      The city belongs to us!
+    section_id: intro
+    title: Text
+    type: contentblock
+  - component: postlist.html
     section_id: posts
-    component: postlist.html
-  - type: textimageblock
-    title: A Cat
+    title: Recent Posts
+    type: postlist
+  - component: text_image_block.html
+    image: ''
     section_id: cat
-    component: text_image_block.html
     text: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo. 
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
-
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-    image: images/art.svg
+      Construction for Berlin's tallest building is scheduled to be completeled
+      in 2023. Plans are for 3400 software developers to occupy 28 of the 35
+      stories. It will be located on the*Warschauer Bridge*, next to the East
+      Side Mall, a relic of the Media Spree era. Friedrichshain-Kreuzberg will
+      be transformed into a hotspot for tech giants. The mantra of*it brings
+      jobs*is repeated. Of course those jobs are not intended for local
+      residents. The neighborhood will see a demographic shift, with tech
+      firms*disrupting*the neighborhood staples: small businesses, schools,
+      community initiatives and cultural centers. In Silicon Valley, the
+      consequences of*laissez faire*capitalism is apparent. The recent victories
+      in New York City and Kreuzber show that we are not simply at the mercy of
+      real estate, but that we can successfully push back against tech giants
+      through grassroots coalitions. This is exactly what we aim for. Together
+      we creatively and loudly protest against the Amazon infestation in
+      Friedrichshain-Kreuzberg. A conglomerate like Amazon, which harasses
+      employees, pays no taxes while earning hundreds of billions, and
+      propogates digital surveillance, has no business in Berlin or anywhere!
+      The city belongs to us!
+    title: A Cat
+    type: textimageblock
 menus:
   main:
     title: Home
     weight: 1
 layout: home
 ---
+
