@@ -6,6 +6,7 @@ sass:
   indentWidth: 4
   precision: 10
   style: nested
+future: true
 plugins:
   - jekyll-menus
 exclude:

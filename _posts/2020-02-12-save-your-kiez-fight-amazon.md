@@ -2,12 +2,14 @@
 title: Save Your Kiez - Fight Amazon
 content_img_path: /images/amazon_cat.jpg
 date: 2020-02-21T23:59:01.779Z
-thumb_img_path: ''
+excerpt: >-
+  Join the demonstration against the Amazon Tower in Berlin on 22nd February 2020.
+thumb_img_path: /images/amazon_cat.jpg
 layout: post
 ---
 Demonstration for a common future
 
-The secret of the construction site at the Warsaw Bridge has been revealed: None other than the Internet giant Amazon wants to move into the 140-meter-high high-rise building called EDGE East Side Berlin with 3,500 well-paid workers. Companies such as Zalando, Lieferando and many others are also currently opening headquarters or building their own giant projects. This is just a small glimpse of the coming changes in Berlin. 
+The secret of the construction site at the Warsaw Bridge has been revealed: None other than the Internet giant Amazon wants to move into the 140-meter-high high-rise building called EDGE East Side Berlin with 3,500 well-paid workers. Companies such as Zalando, Lieferando and many others are also currently opening headquarters or building their own giant projects. This is just a small glimpse of the coming changes in Berlin.
 
 Together we want to demonstrate on February 22 against Amazon and for a city from below.
 
@@ -15,11 +17,11 @@ Amazon wants to enter our neighbourhood!
 
 Who wants a company like Amazon, which monopolizes areas such as mail order, monitors its customers and harasses its workers, destroys goods as good as new and works together with deportation authorities here in our neighbourhood?
 
-With the settlement of Amazons in Friedrichshain, the already tense situation threatens to become much worse. Seattle and San Francisco are still suffering from the drastic consequences of unfettered tech urbanism: exploding rents, rising homelessness and a growing income gap. 
+With the settlement of Amazons in Friedrichshain, the already tense situation threatens to become much worse. Seattle and San Francisco are still suffering from the drastic consequences of unfettered tech urbanism: exploding rents, rising homelessness and a growing income gap.
 
 Capital does not always win
 
-But there is another way: In New York a year ago Jeff Bezos (head of Amazon) had to leave under loud protest and cancel his plans for headquarters. 
+But there is another way: In New York a year ago Jeff Bezos (head of Amazon) had to leave under loud protest and cancel his plans for headquarters.
 Let's do what they did!
 
 Defend the neighbourhood culture!
@@ -32,6 +34,6 @@ New luxury construction, club death and neighbourhood destruction, rent increase
 
 In a city without solidarity, we residents of all kinds come together!
 
-The "promised" demand- and climate-friendly city of tomorrow - we want it today! 
+The "promised" demand- and climate-friendly city of tomorrow - we want it today!
 
 No Amazon Tower! We all stay!
